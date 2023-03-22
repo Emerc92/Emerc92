@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emerc92
 - 👀 I’m interested in Java EE and others programming laguages...
-- 🌱 I’m currently learning Angular Framework and Spring Boot Framework ...
+- 🌱 I’m currently learning Angular e lavorando con  Spring Boot e d eclipse scout. 
 
 
 <!---
